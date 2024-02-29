@@ -2,6 +2,12 @@
 
 Python notebook that utilizes a CNN and LSTM to create a model that can predict whether a phone is indoors or outdoors based on various sensors.
 
+## Data Source:
+Bakirtzis, S., Qiu, K., Wassell, I., Fiore, M., and Zhang, J. (2022). Research data supporting “Deep Learning-based Multivariate Time Series Classification for Indoor Outdoor Detection”. Apollo - University of Cambridge Repository. https://www.repository.cam.ac.uk/items/7e5b7161-c3a9-465a-8595-c04cb356ecfa
+
+## Reference Article:
+S. Bakirtzis, K. Qiu, I. Wassell, M. Fiore and J. Zhang, "Deep-Learning-Based Multivariate Time-Series Classification for Indoor/Outdoor Detection," in IEEE Internet of Things Journal, vol. 9, no. 23, pp. 24529-24540, 1 Dec.1, 2022, https://ieeexplore.ieee.org/document/9828386
+
 <table class="tg">
 <thead>
   <tr>
